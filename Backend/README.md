@@ -59,7 +59,7 @@ Registers a new user in the system by creating a new Account with The Provided I
 
 #### Example Response
 
-```'-user' (object):
+ ```json -user (object):
  {
    "username":
       -"firstname":"string,required (min 3 char)"
