@@ -57,20 +57,6 @@ Registers a new user in the system by creating a new Account with The Provided I
   }
   ```
 
-#### Example Response
-
- ```json -user (object):
- {
-   "username":
-      -"firstname":"string,required (min 3 char)"
-      -"lastname":"string (min 3 char)",
-   "password": "string ,required (min 3 char)",
-   "email": "string ,required (min 3 char)",
- }
-```
-
-```'-token' (String):
-       JWT Token
 
 
 
